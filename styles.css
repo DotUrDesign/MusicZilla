@@ -1,0 +1,90 @@
+.title-image{
+  width: 80%;
+  border-radius: 100px;
+}
+
+.navbar-brand{
+  font-size: 2.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    margin-right: 3%;
+}
+
+#title{
+  background-color: black;
+  padding: 7% 15% 7%;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 4rem;
+  font-weight: bolder;
+}
+
+#features
+{
+  text-align: center;
+  background-color: black;
+  padding: 3% 7% 7%;
+}
+
+.bestOfArtists{
+  padding-bottom: 5%;
+}
+
+.features-image{
+  width: 50%;
+  border-radius: 300%;
+}
+.features-image2{
+  width: 40%;
+  border-radius: 300%;
+}
+.carousel-indicators{
+  padding-bottom: 0%;
+}
+
+h5{
+  color: grey;
+  text-align: center;
+}
+
+.logo-image{
+  width: 40px;
+    margin: 0 3% 5px;
+}
+/* .container{
+  min-height: 75vh;
+  background-color: #383838;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  margin: 23px auto;
+  width: 70%;
+  border-radius: 3%;
+  background-image: url("images/bg.jpg");
+}
+
+.bottom {
+  position: sticky;
+  height: 130px;
+  background-color: black;
+  bottom: 0;
+  text-align: center;
+  color: white;
+}
+
+#myProgressBar{
+  width: 75%;
+}
+
+.fontawesome{
+  padding: 15px 20px 0;
+}
+
+.songItem{
+
+} */

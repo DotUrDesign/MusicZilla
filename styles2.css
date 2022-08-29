@@ -1,0 +1,105 @@
+
+
+#Marshmellow-Playlist{
+  height: 75vh;
+  color: white;
+  background-color: black;
+
+  /* width: 700px; */
+  height: 650px;
+  margin-bottom: 0;
+}
+/*
+.second-block{
+  background-image: url("images/MM-image.webp");
+  background-size: 1300px;
+} */
+
+.first-row{
+  text-align: center;
+}
+h2{
+  padding-top: 2%;
+  font-family:Montserrat,sans-serif;
+}
+h1{
+  font-family:Montserrat,sans-serif;
+  font-size: 40px;
+}
+
+.container
+{
+  min-height: 72vh;
+  background-color: black;
+  color: white;
+  font-family: Montserrat,sans-serif;
+  display: flex;
+  padding: 34px;
+  background-image: url("images/MM-image.webp");
+  background-size: 1300px;
+}
+
+.bottom
+{
+  position: sticky;
+  height: 130px;
+  background-color: black;
+  color: white;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.icons
+{
+  margin-top: 14px;
+}
+
+.icons i{
+  cursor: pointer;
+  padding: 0 10px;
+}
+
+#myProgressBar{
+  width: 85%;
+  cursor: pointer;
+}
+
+.songItemcontainer{
+  margin-top: 70px;
+}
+.songItem{
+  height: 60px;
+  display: flex;
+  background-color: white;
+  width: 300px;
+  color: black;
+  margin: 12px 0;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 34px;
+}
+.songItem img{
+  width: 15%;
+  margin-left: 14px;
+  border-radius: 34px;
+}
+
+.icon-img {
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.timespan {
+  padding-right: 5px;
+}
+
+.songName {
+    font-weight: bold;
+}
+
+/* .song_gif img{
+  width: 20%;
+} */
